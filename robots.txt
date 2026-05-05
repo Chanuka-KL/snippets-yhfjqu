@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://Chanuka-KL.github.io/snippets-yhfjqu/sitemap.xml
